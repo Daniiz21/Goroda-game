@@ -25,7 +25,7 @@ cd test
 
 1. Запустите игру:
 ```bash
-python 1.py
+python gorodaposety.py
 ```
 
 2. Следуйте инструкциям в консоли:
@@ -48,7 +48,7 @@ python 1.py
 ```
 Goroda-game/
 │
-├── 1.py         # Основной файл игры
+├── gorodaposety.py         # Основной файл игры
 ├── cities.txt      # Список городов
 └── README.md       # Документация
 ```
