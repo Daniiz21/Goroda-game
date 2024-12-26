@@ -19,7 +19,7 @@
 
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/Daniiz21/test.git
+git clone https://github.com/Daniiz21/Goroda-game.git
 cd test
 ```
 
