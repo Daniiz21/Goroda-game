@@ -20,7 +20,7 @@
 1. Склонируйте репозиторий:
 ```bash
 git clone https://github.com/Daniiz21/test.git
-cd cities-game
+cd test
 ```
 
 2. Создайте файл `cities.txt` в корневой директории проекта и заполните его списком городов (по одному городу на строку).
